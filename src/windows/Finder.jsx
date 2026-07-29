@@ -39,7 +39,7 @@ const Finder = () => {
         <>
             <div id="window-header">
                 <WindowControls target="finder"/>
-                <h2>Tech Stack</h2>
+                <h2>My Work</h2>
             </div>
 
             <div className="bg-white flex h-full">
