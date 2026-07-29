@@ -31,7 +31,7 @@ function Terminal() {
                                 ))}
                             </ul>
                         </li>
-                    ))};
+                    ))}
                 </ul>
                 <div className="footnote">
                     <p>
