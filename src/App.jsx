@@ -6,6 +6,7 @@ import {Draggable} from "gsap/Draggable";
 import gsap from "gsap";
 
 import Terminal from "./windows/Terminal.jsx";
+import Safari from "./windows/Safari.jsx";
 
 gsap.registerPlugin(Draggable);
 
@@ -17,6 +18,7 @@ const App = () => {
             <Dock />
 
             <Terminal />
+            <Safari />
         </main>
     )
 }
